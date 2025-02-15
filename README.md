@@ -12,6 +12,11 @@ This is a simple console-based ATM machine application built using Java. It allo
 - 🔄 **Change PIN** – Allows users to set a new PIN.
 - ❌ **Exit** – Safely exit the ATM system.
 
+### 🛠️ Technologies Used
+
+- 🎭 Object-Oriented Programming Concept
+- ⌨️ Scanner Class for User Input
+
 ### 🎯 How to Use
 
 1. Run the program.
