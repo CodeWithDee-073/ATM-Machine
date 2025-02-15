@@ -103,10 +103,10 @@ public class ATMMachine {
         System.out.println("4. Change PIN");
         System.out.println("5. Exit");
         System.out.print("Enter your choice: ");
-        int choice = sc.nextInt();
+        int ch = sc.nextInt();
 
         // Handle user's choicekkkkk
-        switch (choice) {
+        switch (ch) {
           case 1:
             userATM.checkBalance(); // Check account balance
             break;
@@ -134,7 +134,7 @@ public class ATMMachine {
         }
 
         // If PIN was changed, require re-authentication before further transactions
-        if (choice == 4) {
+        if (ch == 4) {
           break;
         }
       }
