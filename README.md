@@ -48,7 +48,7 @@ Your current balance is: Rs 1000.0
 
 - **Clone the Repo:**
 ```
-git clone https://github.com/prabhatthakuryt/Car-Rental-System.git
+git clone https://github.com/CodeWithDee-073/ATM-Machine.git
 ```
 
 ### 🎉 Contributions Welcome!
