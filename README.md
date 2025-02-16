@@ -44,10 +44,20 @@ Enter your choice: 1
 Your current balance is: Rs 1000.0
 ```
 
+🚀 Getting Started
+
+```
+Clone the Repo: git clone https://github.com/prabhatthakuryt/Car-Rental-System.git
+```
+
+### 🎉 Contributions Welcome!
+
+Feel free to contribute by improving features, fixing bugs, or optimizing the code!
+
 ### 🔄 Future Enhancements
 
 - 📊 **Mini Statement** – Display recent transactions.
 - 📱 **Mobile Number Linking** – For enhanced security.
 - 🔔 **Transaction Alerts** – Notify users after every transaction.
 
-
+-----
